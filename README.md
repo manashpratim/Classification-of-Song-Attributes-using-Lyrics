@@ -24,6 +24,6 @@ for genre and popularity prediction task. This is the first work utilizing these
 
 # References
 1) MP Barman, K Dahekar, A Anshuman and A Awekar "It's Only Words And Words Are All I Have"- arXiv preprint arXiv:1901.05227, 2019.
-2) M. Fell and C. Sporleder. Lyrics-based analysis and classication of music. In COLING, 2014.
+2) M. Fell and C. Sporleder. Lyrics-based analysis and classification of music. In COLING, 2014.
 3) Q. Le and T. Mikolov. Distributed representations of sentences and documents. In International Conference on Machine Learning, pages 1188--1196, 2014.
-4) T. Mikolov, K. Chen, G. Corrado, and J. Dean. Ecient estimation of word representations in vector space. CoRR, abs/1301.3781, 2013.
+4) T. Mikolov, K. Chen, G. Corrado, and J. Dean. Efficient estimation of word representations in vector space. CoRR, abs/1301.3781, 2013.
